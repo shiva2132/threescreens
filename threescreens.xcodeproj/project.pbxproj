@@ -13,6 +13,7 @@
 		BB6C5B17220ADB80007D07EF /* threescreens.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BB6C5B15220ADB80007D07EF /* threescreens.xcdatamodeld */; };
 		BB6C5B19220ADB8B007D07EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB6C5B18220ADB8B007D07EF /* Assets.xcassets */; };
 		BB6C5B1C220ADB8B007D07EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB6C5B1A220ADB8B007D07EF /* LaunchScreen.storyboard */; };
+		BB6C5B24220ADDC8007D07EF /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB6C5B23220ADDC8007D07EF /* secondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BB6C5B18220ADB8B007D07EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB6C5B1B220ADB8B007D07EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB6C5B1D220ADB8B007D07EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB6C5B23220ADDC8007D07EF /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				BB6C5B0E220ADB80007D07EF /* AppDelegate.swift */,
 				BB6C5B10220ADB80007D07EF /* ViewController.swift */,
+				BB6C5B23220ADDC8007D07EF /* secondViewController.swift */,
 				BB6C5B12220ADB80007D07EF /* Main.storyboard */,
 				BB6C5B18220ADB8B007D07EF /* Assets.xcassets */,
 				BB6C5B1A220ADB8B007D07EF /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB6C5B24220ADDC8007D07EF /* secondViewController.swift in Sources */,
 				BB6C5B11220ADB80007D07EF /* ViewController.swift in Sources */,
 				BB6C5B17220ADB80007D07EF /* threescreens.xcdatamodeld in Sources */,
 				BB6C5B0F220ADB80007D07EF /* AppDelegate.swift in Sources */,
